@@ -1,0 +1,36 @@
+/* .flex-container{
+    display: flex;
+    flex-wrap:wrap;
+    flex: 50;
+    border: solid red
+} */
+.one{
+    border: solid black;
+    display: flex;
+    flex: 20;
+}
+.two{
+    border: solid black;
+    display: flex;
+    flex: 20;
+}
+.three{
+    border: solid black;
+    display: flex;
+    flex: 5;
+}
+.four{
+    border: solid black;
+    display: flex;
+    flex: 5;
+}
+.five{
+    border: solid black;
+    display: flex;
+    flex: 5;
+}
+.six{
+    border: solid black;
+    display: flex;
+    flex: 5
+}
